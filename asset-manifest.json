@@ -1,20 +1,15 @@
 {
   "files": {
-    "main.css": "/sn_morara2/static/css/main.a3295391.css",
-    "main.js": "/sn_morara2/static/js/main.cad1afce.js",
+    "main.css": "/sn_morara2/static/css/main.fc07ce3b.css",
+    "main.js": "/sn_morara2/static/js/main.93f446fd.js",
     "static/js/453.1b7b499c.chunk.js": "/sn_morara2/static/js/453.1b7b499c.chunk.js",
-    "static/media/phone_number.svg": "/sn_morara2/static/media/phone_number.6a64cf1d8c5e15b834b9e778ef6b110a.svg",
-    "static/media/job_icon.svg": "/sn_morara2/static/media/job_icon.87a16536fc862a18af717b70092aa155.svg",
     "index.html": "/sn_morara2/index.html",
-    "static/media/email.svg": "/sn_morara2/static/media/email.2e0cfb211a58a7c3a0d2cd208a32698b.svg",
-    "static/media/date.svg": "/sn_morara2/static/media/date.6acc1b35d19f41a063221351cd87301b.svg",
-    "static/media/username_logo.svg": "/sn_morara2/static/media/username_logo.d64c0eb5c50826306fe9dda67555ee1b.svg",
-    "main.a3295391.css.map": "/sn_morara2/static/css/main.a3295391.css.map",
-    "main.cad1afce.js.map": "/sn_morara2/static/js/main.cad1afce.js.map",
+    "main.fc07ce3b.css.map": "/sn_morara2/static/css/main.fc07ce3b.css.map",
+    "main.93f446fd.js.map": "/sn_morara2/static/js/main.93f446fd.js.map",
     "453.1b7b499c.chunk.js.map": "/sn_morara2/static/js/453.1b7b499c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3295391.css",
-    "static/js/main.cad1afce.js"
+    "static/css/main.fc07ce3b.css",
+    "static/js/main.93f446fd.js"
   ]
 }
