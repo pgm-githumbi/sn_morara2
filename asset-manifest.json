@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sn_morara2/static/css/main.0a7d6a79.css",
-    "main.js": "/sn_morara2/static/js/main.5e981e15.js",
+    "main.css": "/sn_morara2/static/css/main.93d387f3.css",
+    "main.js": "/sn_morara2/static/js/main.4fa56d22.js",
     "static/js/453.1b7b499c.chunk.js": "/sn_morara2/static/js/453.1b7b499c.chunk.js",
     "index.html": "/sn_morara2/index.html",
-    "main.0a7d6a79.css.map": "/sn_morara2/static/css/main.0a7d6a79.css.map",
-    "main.5e981e15.js.map": "/sn_morara2/static/js/main.5e981e15.js.map",
+    "main.93d387f3.css.map": "/sn_morara2/static/css/main.93d387f3.css.map",
+    "main.4fa56d22.js.map": "/sn_morara2/static/js/main.4fa56d22.js.map",
     "453.1b7b499c.chunk.js.map": "/sn_morara2/static/js/453.1b7b499c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a7d6a79.css",
-    "static/js/main.5e981e15.js"
+    "static/css/main.93d387f3.css",
+    "static/js/main.4fa56d22.js"
   ]
 }
