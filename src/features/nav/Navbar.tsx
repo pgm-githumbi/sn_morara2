@@ -32,7 +32,7 @@ const Navbar = () => {
           <div className="flex flex-row">
             {/* <Search />
             <Notif /> */}
-            <div className="hidden flex-none lg:block">
+            <div className="hidden flex-none sm:block">
               <ul className="menu menu-horizontal">
                 <li
                   className="ml-3 mr-3 btn btn-sm btn-outline"
