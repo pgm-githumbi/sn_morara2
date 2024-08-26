@@ -1,6 +1,6 @@
 import Dropdown from "./Dropdown";
 import { Link, Outlet, useNavigate } from "react-router-dom";
-import { create, homepage } from "../../routePaths";
+import { create } from "../../routePaths";
 
 const Navbar = () => {
   const navigate = useNavigate();
@@ -9,9 +9,7 @@ const Navbar = () => {
       <div className="navbar bg-base-300 hover:bg-gradient-to-r from-base-300 via-base-200 to-base-100 border-b border-1 border-slate-800/70 sticky top-0 z-40">
         <div className="navbar-start">
           <Dropdown>
-            <li>
-              <Link to={homepage}>homepage</Link>
-            </li>
+            <li>Nothing to see here</li>
           </Dropdown>
         </div>
         <div className="navbar-center">
