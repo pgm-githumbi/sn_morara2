@@ -1,8 +1,8 @@
 {
-  "name": "cv_buildr",
+  "name": "sn_morara2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pgm-githumbi.github.io/cv_buildr",
+  "homepage": "https://pgm-githumbi.github.io/sn_morara2",
   "dependencies": {
     "@heroicons/react": "^2.1.4",
     "@material-tailwind/react": "^2.1.9",
