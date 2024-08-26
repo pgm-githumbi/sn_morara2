@@ -1,15 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
 import NavbarSlice from "./redux/ui/NavbarSlice";
-import HeaderSlice from "./redux/cv/HeaderSlice";
-import SummarySlice from "./redux/cv/SummarySlice";
-import ExperienceSlice from "./redux/cv/ExperienceSlice";
 
 const store = configureStore({
   reducer: {
     navbar: NavbarSlice,
-    cvHeader: HeaderSlice,
-    summary: SummarySlice,
-    experience: ExperienceSlice,
   },
 });
 
