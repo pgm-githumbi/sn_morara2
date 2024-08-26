@@ -6,7 +6,7 @@ const Navbar = () => {
   const navigate = useNavigate();
   return (
     <>
-      <div className="navbar bg-base-300 hover:bg-gradient-to-r from-base-300 via-sky-950 to-indigo-950 border-b border-1 border-slate-800/70 sticky top-0 z-40">
+      <div className="navbar bg-base-300 hover:bg-gradient-to-r from-base-300 via-base-200 to-base-100 border-b border-1 border-slate-800/70 sticky top-0 z-40">
         <div className="navbar-start">
           <Dropdown>
             <li>
